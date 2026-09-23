@@ -93,3 +93,8 @@ h2 {
   height: 700px;
   align-items: center;
 }
+.d-flex-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
