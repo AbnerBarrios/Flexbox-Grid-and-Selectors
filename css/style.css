@@ -80,3 +80,10 @@ h2 {
   display: flex;
   justify-content: space-between;
 }
+/* 4 */
+.d-flex-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 1000px;
+}
