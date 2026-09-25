@@ -174,3 +174,10 @@ h2 {
 .grid-10 .box:nth-child(5) {
   grid-area: footer;
 }
+/* 11 */
+.grid-11 {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  height: 300px;
+  place-content: center;
+}
